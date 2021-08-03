@@ -1,0 +1,29 @@
+CODE SETTINGS SYNC UPLOAD SUMMARY
+Version: 3.4.3
+--------------------
+GitHub Token: ghp_**********
+GitHub Gist: 3e06b8c7385ee0c82f5bd67a8156ca45
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Uploaded:
+  extensions.json > extensions.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  No extensions removed.
+
+Extensions Added:
+  code-settings-sync v3.4.3
+  indent-rainbow v7.5.0
+  jupyter v2021.8.1054968649
+  python v2021.7.1060902895
+  vscode-icons v11.6.0
+  vscode-pylance v2021.7.7
+  win-opacity v1.1.5
+--------------------
+Done.
